@@ -1,7 +1,7 @@
 <!--
 12
 -->
-![banner](https://github.com/user-attachments/assets/6dfed706-8e70-41e4-9acd-eea818a97482)
+![banner](https://github.com/user-attachments/assets/6dfed706-8e70-41e4-9acd-eea818a97482-asa)
 
 <h3 align="left">📫 How to reach me:</h3>
 <p align="left">
